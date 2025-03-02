@@ -2,7 +2,7 @@ You’re right! Here’s the properly formatted GitHub README.md file with corre
 
 # Indesign Bulk MotionPaths Animations AppleScript
 
-![Animation Example](https://github.com/SurgeonTalus/Indesign-Bulk-MotionPaths-Animations-Applescript/blob/main/animation-example.png)
+![Animation Example](https://github.com/SurgeonTalus/Indesign-Bulk-MotionPaths-Animations-Applescript/blob/main/BulkAnimation%20Indesign.png)
 
 ## Introduction  
 This AppleScript allows you to bulk apply motion paths and animations to objects in **Adobe InDesign**. The script helps save time and effort when working with complex designs requiring multiple animations.
